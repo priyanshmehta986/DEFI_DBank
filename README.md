@@ -14,9 +14,9 @@
 |   ├── abis/
 |   ├── components/            -> Contains Frontend React pages
 |   ├── contracts/             -> Conatains Smart Contracts
-|   ├── dbank.png
+|   ├── dbank. jpg
 |   ├── index.js
-|   ├── logo.png
+|   ├── logo. jpg
 |   └── serviceWorker.js
 ├── test/                      -> Contains Chai and Mocha tests for Smart Contracts
 ├── .env_example
@@ -53,14 +53,16 @@
 
 ## Screenshots
 
-![1](/screenshots/1.png)
+![1](/screenshots/1.jpg)
 
-![2](/screenshots/2.png)
+![2](/screenshots/2.jpg)
 
-![3](/screenshots/3.png)
+![3](/screenshots/3.jpg)
 
-![4](/screenshots/4.png)
+![4](/screenshots/4.jpg)
 
-![5](/screenshots/5.png)
+![5](/screenshots/5.jpg)
 
-![6](/screenshots/6.png)
+![6](/screenshots/6.jpg)
+
+#
